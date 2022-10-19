@@ -1,0 +1,35 @@
+_repo: The-ward-of-Tecumseh_69052
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: McKernan, Frank
+    alias: McKernan, F. (Frank)
+    birthdate: 1861
+    deathdate: 1934
+    gutenberg_agent_id: '37708'
+    url: http://www.gutenberg.org/2009/agents/37708
+creator:
+  author:
+    agent_name: Marriott, Crittenden
+    gutenberg_agent_id: '55073'
+    url: http://www.gutenberg.org/2009/agents/55073
+description: ''
+gutenberg_issued: '2022-09-27'
+identifiers:
+  gutenberg: '69052'
+language: en
+pgterms:marc904: https://archive.org/details/wardoftecumseh00marriala/page/n1/mode/2up
+pgterms:marc905: 20211109120245marriott
+pgterms:marc906: '1914'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :J. B. Lippincott,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The ward of Tecumseh
+url: http://www.gutenberg.org/ebooks/69052
